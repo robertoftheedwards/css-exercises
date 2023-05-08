@@ -1,19 +1,18 @@
-.C0001 {
+.set_color_and_font {
     background-color: pink;
-    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-.C0002 {
+.adjust_font_size {
     font-size: 24px;
 }
 
 #ID0001 {
     color: blue;
-    font-size: 24px;
+    font-size: 36px;
 }
 
 #ID0002 {
     background-color: lightgreen;
-    font-size: 24px;
     font-weight: bold;
 }
